@@ -1,7 +1,7 @@
 version: '2'
 services:
 
-  ### Mysql container
+  ### Mysql containerr
   mysql:
     image: mysql:latest
     ports:
